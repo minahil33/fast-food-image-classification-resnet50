@@ -41,27 +41,6 @@ Input Size: 224 × 224 RGB images
 
 Final Layer: Fully Connected Layer customized for number of food classes
 
-📂 Dataset Structure
-Fast Food Classification V2/
-│
-├── train/
-│   ├── class_1/
-│   ├── class_2/
-│   └── ...
-│
-├── valid/
-│   ├── class_1/
-│   ├── class_2/
-│   └── ...
-│
-└── test/
-    ├── class_1/
-    ├── class_2/
-    └── ...
-
-
-Each class folder contains images of that specific food category.
-
 ⚙️ Requirements
 
 Install required libraries using:
